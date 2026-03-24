@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammad Khizar 👋
 
-<!--
-**khizar217naat-alt/khizar217naat-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Odoo Developer specializing in ERP solutions, custom modules, and business automation.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Odoo Development
+- Python, XML, PostgreSQL
+- API Integrations
+- Website & UI Customization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Services
+- ERP Implementation
+- Custom Module Development
+- Odoo Migration & Upgrades
+- Business Process Automation
+
+## 📫 Contact
+- Email: khizar217naat@gmail.com
